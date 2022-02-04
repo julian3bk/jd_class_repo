@@ -1,4 +1,2 @@
 # jd_class_repo
-My first github project
-
-add detail
+My first github project for PHY504
